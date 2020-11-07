@@ -12,7 +12,7 @@ print("\t\t\t *------------------**------------------*")
 passwd = getpass.getpass("Enter your password :")
 
 
-if passwd != "shiva":
+if passwd != "(add your password)":
 	print("please enter correct password :")
 	exit()
 
